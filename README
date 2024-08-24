@@ -1,0 +1,32 @@
+This README file contains information on the contents of the meta-mavlink layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+core openembedded-layer meta-python
+
+Patches
+=======
+
+
+
+Maintainer: Neel Sani <neel@neels.dev>
+
+Table of Contents
+=================
+
+  I. Adding the meta-mavlink layer to your build
+ II. Misc
+
+
+I. Adding the meta-mavlink layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-mavlink'
+
+II. Misc
+========
+
+--- replace with specific information about the meta-mavlink layer ---
